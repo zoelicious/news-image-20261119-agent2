@@ -6,19 +6,27 @@ one image summing up the world's news of Thursday 19 November 2026.
 
 ## The image
 
-Layout **"MAP-LED ATLAS"** — the world map leads the page:
+Layout **"THE DAY UNFOLDS"** — a vertical timeline is the spine of the page:
 
-- **Masthead** — light cream, giant serif date, "36 STORIES · 6 CONTINENTS ·
+- **Masthead** — light cream, giant serif date, "40 STORIES · 6 CONTINENTS ·
   ONE DAY".
-- **World map first** — dotted-halftone map with numbered pins for stories
-  1–12, a star for Voyager 1 (no place on Earth), and dots for the briefs.
-- **Three hero panels below the map** — the APEC trilateral in Shenzhen, the
-  ICJ genocide verdict on Myanmar, and Anthropic's record $81.3bn IPO.
-- **Secondary grid 3×3** — Jeffries, Van Gogh, Voyager 1, GTA VI, Gaza, the
-  US–Iran war cost, the EU's €45bn Ukraine loan, Cyclone Akvan, Nvidia.
-- **Briefs in three columns** — stories 13–36, one line each.
+- **Timeline** — a teal spine down the left side with five time bands:
+  FIRST WIRES, MORNING, MIDDAY, AFTERNOON, EVENING. Stories are numbered
+  in the order they led the wires, 1–13.
+- **Midday hero feature** — the APEC trilateral in Shenzhen is the one
+  full-width feature, with a large illustration, inside the MIDDAY band.
+- **Band cards** — icon-left cards (small square illustration + text):
+  Van Gogh's record sale, Voyager 1 one light-day out, the Crimean Bridge
+  hit again, Jeffries nominated for Speaker, Cyclone Akvan, Nvidia's
+  $115.8bn quarter, the ICJ genocide verdict on Myanmar, the EU's €45bn
+  Ukraine loan, Israeli tanks crossing the Yellow Line, Anthropic's record
+  $81.3bn IPO, GTA VI opening, and the cost of the US–Iran war.
+- **Briefs in three columns** — stories 14–40, one line each.
+- **Slim map strip at the very bottom** — a dotted-halftone locator with
+  numbered pins for stories 1–13, a star for Voyager 1 (no place on
+  Earth), and dots for the briefs.
 
-36 stories in total, every one reported on 19 November 2026; disputed claims
+40 stories in total, every one reported on 19 November 2026; disputed claims
 are attributed in the image. All drawings are original flat vector art.
 
 ## Files

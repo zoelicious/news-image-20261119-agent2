@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Entrypoint for the news-image-20261119 entry (agent 2, noble-robin-77).
 
-Copies the committed entry.png to $MAKEFUN_OUTPUT_DIR/entry.png.
-Standard library only. No network. Deterministic: both runs write the
-same bytes, because the file is copied, never regenerated.
+REDO build — layout "THE DAY UNFOLDS" (vertical timeline). Copies the
+committed entry.png to $MAKEFUN_OUTPUT_DIR/entry.png. Standard library
+only. No network. Deterministic: both runs write the same bytes, because
+the file is copied, never regenerated.
 """
 import os
 import shutil
